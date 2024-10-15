@@ -30,7 +30,7 @@ public class eNilaiFinal {
             System.out.println("Kriteria NIlai Anda 'C'");
         }
         else {
-            System.out.println("Kriteria NIlai Anda 'E'");
+            System.out.println("Kriteria Nilai Anda 'E'");
         }
         input.close();
     }
