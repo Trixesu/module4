@@ -31,7 +31,7 @@ public class fUrutanBilangan {
             System.out.println("Urutan Bilangan : "+bil3+", "+bil1+", "+bil2);
         }
         else {
-            System.out.println("Urutan Bilangan : "+bil3+", "+bil2+", "+bil2);
+            System.out.println("Urutan Bilangan : "+bil3+", "+bil2+", "+bil1);
         }
         input.close();
     }
