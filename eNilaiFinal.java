@@ -21,13 +21,13 @@ public class eNilaiFinal {
         System.out.println("NIlai Final Anda adalah "+nilaiFinal);
         
         if (nilaiFinal >= 80) {
-            System.out.println("Kriteria NIlai Anda 'A'");
+            System.out.println("Kriteria Nilai Anda 'A'");
         }
         else if (60 <= nilaiFinal && nilaiFinal < 80) {
-            System.out.println("Kriteria NIlai Anda 'B'");
+            System.out.println("Kriteria Nilai Anda 'B'");
         }
         else if (55 <= nilaiFinal && nilaiFinal < 65) {
-            System.out.println("Kriteria NIlai Anda 'C'");
+            System.out.println("Kriteria Nilai Anda 'C'");
         }
         else {
             System.out.println("Kriteria Nilai Anda 'E'");
